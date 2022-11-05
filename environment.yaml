@@ -1,0 +1,9 @@
+name: nyc-taxi
+channels:
+  - conda-forge
+dependencies:
+  - dask
+  - coiled
+  - pyarrow
+  - s3fs
+  - ipykernel
